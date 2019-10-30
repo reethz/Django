@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class PagesConfig(AppConfig):
-    name = 'pages'
+class PollsConfig(AppConfig):
+    name = 'polls'
